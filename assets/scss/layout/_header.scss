@@ -1,0 +1,60 @@
+.header{
+    .top-menu{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        height: 57px;
+        padding: 16px 0 9px 0;
+        background: #fff;
+        .logo{
+            a{
+                font-weight: bold;
+                font-size: 1.125rem;
+                line-height: 1;
+            }
+        }
+        .util-menu{
+            display: flex;
+            .search{
+                display: block;
+                width: 32px;
+                height: 32px;
+                background: url(../images/search.svg) no-repeat;
+                background-size: cover;
+            }
+            .cart{
+                display: block;
+                width: 32px;
+                height: 32px;
+                background: url(../images/cart.svg) no-repeat;
+                background-size: cover;
+            }
+        }
+    }
+    .gnb{
+        .swiper{
+            &-slide{
+                a{
+                    display: flex;
+                    justify-content: center;
+                    p{
+                        padding: 8px 16px 12px 0;
+                        color: rgba(17, 17, 17, 0.4);
+                        font-size: 1.125rem;
+                        line-height: 1.125rem;
+                        font-weight: 700;
+                    }
+                }
+            }
+            
+        }
+
+        .btn-more{
+            width: 28px;
+            height: 28px;
+            background: url(../images/common/ico_gnb_more.svg) no-repeat;
+            background-size: cover;
+            transition: transform 0.5s;
+        }
+    }
+}

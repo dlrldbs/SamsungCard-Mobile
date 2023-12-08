@@ -1,0 +1,93 @@
+.blind{
+    position: absolute;
+    width: 1px;height: 1px;
+    overflow: hidden;
+    clip: rect(0,0,0,0);
+}
+.wrapper{
+    min-width: 320px;
+}
+.inner{
+    width: 100%;
+    padding: 0 20px;
+    margin: 0 auto;
+}
+h2{
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+h3{
+    font-size: 1rem;
+    line-height: 133%;
+    font-weight: bold;
+}
+.vendor{
+    display: inline-block;
+    color: #999;
+    font-weight: 500;
+    white-space: nowrap;
+}
+.btn-wrap{
+    margin: 11px 0px 5px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    p{
+        display: inline-flex;
+        min-width: 92px;
+        border-radius: 4px;
+        background: #f4f6fb;
+        border-color: #f4f6fb;
+        padding: 4px 7px 4px 6px;
+        span{
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            color: #7c8aad;
+            font-size: 1rem;
+            line-height: 1.375rem;
+            letter-spacing: -0.5px;
+        }
+    }
+}
+.btn-wrap2{
+    margin: 11px 0px 5px;
+    display: flex;
+    flex-direction: row;
+    p{
+        display: inline-flex;
+        min-width: 92px;
+        border-radius: 4px;
+        background: #f4f6fb;
+        border-color: #f4f6fb;
+        padding: 4px 7px 4px 6px;
+        span{
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            color: #7c8aad;
+            font-size: 1rem;
+            line-height: 1.375rem;
+            letter-spacing: -0.5px;
+        }
+    }
+}
+
+.cart-in{
+    display: block;
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    bottom: 8px;
+    right: 8px;
+    background: url(../images/ic_cart.svg) no-repeat center;
+    background-color: rgba(255, 255, 255, 0.6);
+    border-radius: 7px;
+    box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.15);
+    z-index: 9;
+}

@@ -1,0 +1,16 @@
+@mixin pos-center{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+@mixin pos-vt{
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
+@mixin pos-hr{
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}

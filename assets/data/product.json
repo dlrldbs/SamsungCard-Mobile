@@ -1,0 +1,88 @@
+{
+    "recommList":[
+        {
+            "id":"0",
+            "thumbnail":"./assets/images/tv1.jpg",
+            "vendor":"삼성전자",
+            "title":"[TV역대급할인] 23년 NEW 삼성 QLED 4K Smart TV 163cm [스탠드/벽걸이 동일가격] *KQ65QC68AFXKR",
+            "cate":["TV역대급할인","TV"]
+        },
+        {
+            "id":"1",
+            "thumbnail":"./assets/images/tv2.jpg",
+            "vendor":"삼성전자",
+            "title":"[TV역대급할인]23년 NEW 삼성 Crystal UHD 4K Smart TV 163cm [스탠드/벽걸이 동일가격] *KU65UC7050FXKR",
+            "cate":["TV역대급할인","TV"]
+        },
+        {
+            "id":"2",
+            "thumbnail":"./assets/images/tv3.jpg",
+            "vendor":"삼성전자",
+            "title":"[TV역대급할인]23년 NEW 삼성 QLED 4K Smart TV 189cm [스탠드/벽걸이 동일가격] *KQ75QC68AFXKR",
+            "cate":["TV역대급할인","TV"]
+        },
+        {
+            "id":"3",
+            "thumbnail":"./assets/images/tv4.jpg",
+            "vendor":"삼성전자",
+            "title":"[TV역대급할인]23년 NEW 삼성 QLED 4K Smart TV 214cm [스탠드/벽걸이 동일가격] *KQ85QC68AFXKR",
+            "cate":["TV역대급할인","TV"]
+        },
+        {
+            "id":"4",
+            "thumbnail":"./assets/images/tv5.jpg",
+            "vendor":"삼성전자",
+            "title":"[TV역대급할인]23년 NEW 삼성 Crystal UHD 4K Smart TV 189cm [스탠드/벽걸이 동일가격] *KU75UC7050FXKR",
+            "cate":["TV역대급할인","TV"]
+        },
+        {
+            "id":"5",
+            "thumbnail":"./assets/images/tv6.jpg",
+            "vendor":"삼성전자",
+            "title":"[TV역대급할인]Crystal UHD 4K Smart TV 176cm [스탠드/벽걸이 동일가격] *KU70UA8090FXKR ",
+            "cate":["TV역대급할인","TV"]
+        },
+        {
+            "id":"6",
+            "thumbnail":"./assets/images/sshot1.jpg",
+            "vendor":"삼성전자",
+            "title":"[삼성핫딜]JBL FLIP6 블루투스 스피커[블랙] *JBLFLIP6BLK",
+            "cate":["삼성핫딜","스피커"]
+        },
+        {
+            "id":"7",
+            "thumbnail":"./assets/images/sshot2.jpg",
+            "vendor":"삼성전자",
+            "title":"[삼성핫딜] New 타이젠 OS탑재 삼성 스마트모니터 80cm *LS32BM703UKXKR *온라인문화상품권증정",
+            "cate":["삼성핫딜","모니터"]
+        },
+        {
+            "id":"8",
+            "thumbnail":"./assets/images/sshot3.jpg",
+            "vendor":"삼성전자",
+            "title":"[삼성핫딜] 이동형 스마트모니터 *LS32BM703UK-ST *온라인문화상품권증정",
+            "cate":["삼성핫딜","모니터"]
+        },
+        {
+            "id":"9",
+            "thumbnail":"./assets/images/sshot4.jpg",
+            "vendor":"삼성전자",
+            "title":"[삼성핫딜] BESPOKE 큐브™ Air 공기청정기 [헤링본 딥그린] *AX053B810HND  *온라인문화상품권증정",
+            "cate":["삼성핫딜","공기청정기"]
+        },
+        {
+            "id":"10",
+            "thumbnail":"./assets/images/sshot5.jpg",
+            "vendor":"삼성전자",
+            "title":"[삼성핫딜]BESPOKE 그랑데 AI 세탁기 21 kg + 건조기 20 kg  + 상단 설치 키트 *WF21DV20AKKL *온라인문화상품권증정",
+            "cate":["삼성핫딜","세탁기","건조기"]
+        },
+        {
+            "id":"11",
+            "thumbnail":"./assets/images/sshot6.png",
+            "vendor":"삼성전자",
+            "title":"[삼성핫딜]인버터 건조기 9kg [블랙] *DV90T5540BV *요기요상품권증정",
+            "cate":["삼성핫딜","건조기"]
+        }
+    ]
+}
